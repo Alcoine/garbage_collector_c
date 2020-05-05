@@ -1,0 +1,10 @@
+MLD Library must know the information about all structures 
+being used by the application.
+
+The application responsobility is to register used structures 
+(structure registration).
+
+Library will maintain the structure database (preferably a linked-list)
+to store application strucutre information
+
+Key to search in strucutre database is name of strucutre
